@@ -1,3 +1,10 @@
+Hướng dẫn chi tiết, đầy đủ cho việc học tiếp sau đại học
+ - Ad thấy github này; tập hợp những thứ liên quan đến việc chuẩn bị cho việc học sau đại học (thạc sĩ, tiến sĩ,...), tập trung cho ngành CS.
+ - Hướng dẫn chi tiết chuẩn bị những yêu cầu như CV, thư giới thiệu, kế hoạch nghiên cứu, cách chọn trường, ...
+ - Nếu các bạn có ý định học ở nước ngoài (đặc biệt bằng con đường học bổng), thì việc nắm vững các thông tin này là cần thiết và cần chuẩn bị sớm (ít cũng 1 năm trước kỳ bắt đầu học)
+ - Ad để link dưới comment
+
+
 # Advice
 A repository of links with advice related to grad school applications, research, phd etc related to (usually but not always) CS, NLP, and ML. Some resources may be sourced from one of the other resource links. Note - this is merely a repository, and I do not necessarily endorse or subscribe to every piece of advice.
 
